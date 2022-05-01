@@ -39,5 +39,5 @@ Your attention is presented to the program in Prolog (as our teacher said - the 
 
 ## **Выполнено**
 
-- [ ] Ктаок
-- [ ] Хитрый шпион
+- [ ] Каток
+- [x] Хитрый шпион
